@@ -3,7 +3,7 @@
 # Resumo do projeto
 Exemplo de portifólio utilizando a framework Bulma 
 
-<h3 align="left"> :coffee: Tecnologias utilizadas: </h3>
+# <h3 align="left"> :coffee: Tecnologias utilizadas: </h3>
 
 - ``HTML``
 - ``CSS``
